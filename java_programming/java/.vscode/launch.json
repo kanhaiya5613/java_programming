@@ -1,0 +1,66 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "inheritance",
+      "request": "launch",
+      "mainClass": "java.inheritance",
+      "projectName": "Desktop_java"
+    },
+    {
+      "type": "java",
+      "name": "Main1",
+      "request": "launch",
+      "mainClass": "Main1",
+      "projectName": "java_a088a10"
+    },
+    {
+      "type": "java",
+      "name": "inheritance",
+      "request": "launch",
+      "mainClass": "inheritance",
+      "projectName": "java_a088a10"
+    },
+    {
+      "type": "java",
+      "name": "Question",
+      "request": "launch",
+      "mainClass": "Question",
+      "projectName": "java_a088a10"
+    },
+    {
+      "type": "java",
+      "name": "Factorial1",
+      "request": "launch",
+      "mainClass": "Factorial1",
+      "projectName": "java_a088a10"
+    },
+    {
+      "type": "java",
+      "name": "demonstration",
+      "request": "launch",
+      "mainClass": "demonstration",
+      "projectName": "java_a088a10"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/kk707/OneDrive/Desktop/java",
+      "program": "c:/Users/kk707/OneDrive/Desktop/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
